@@ -132,3 +132,4 @@ profileSchema.index({ location: { country: 1, city: 1 } });
 
 module.exports = mongoose.model('Profile', profileSchema);
 
+

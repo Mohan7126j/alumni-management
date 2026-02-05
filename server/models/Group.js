@@ -70,3 +70,4 @@ groupSchema.index({ 'metadata.industry': 1 });
 
 module.exports = mongoose.model('Group', groupSchema);
 
+

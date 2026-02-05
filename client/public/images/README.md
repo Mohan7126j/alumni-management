@@ -27,3 +27,4 @@ Place your images in this directory:
 
 If images are not found, the page will display placeholder icons gracefully.
 
+

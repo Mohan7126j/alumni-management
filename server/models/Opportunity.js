@@ -96,3 +96,4 @@ opportunitySchema.index({ createdAt: -1 });
 
 module.exports = mongoose.model('Opportunity', opportunitySchema);
 
+
