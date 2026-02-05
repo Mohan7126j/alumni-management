@@ -13,7 +13,8 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "recharts": "^2.10.3",
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "build": "react-scripts build"
   },
   "scripts": {
     "start": "react-scripts start",
